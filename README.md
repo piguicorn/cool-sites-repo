@@ -1,5 +1,10 @@
 # Repository with cool sites, portfolios, tools, products, agencies...
 
+## Portfolios
+* Timo Becker - https://timobecker.com/
+* Nik Papić - https://nik.org/
+* Robby Leonardi - http://www.rleonardi.com/interactive-resume/
+
 ## Tools
 * Emaily - https://emaily.app/ - email writing helper
 * Carbonmade - https://carbonmade.com - your online portfolio (no coding needed)
